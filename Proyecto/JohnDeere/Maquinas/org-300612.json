@@ -1,0 +1,161 @@
+{
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://sandboxapi.deere.com/platform/organizations/300612/machines"
+      }
+    ],
+    "total": 1,
+    "values": [
+      {
+        "@type": "Machine",
+        "visualizationCategory": "forageHarvester",
+        "machineCategories": {
+          "@type": "MachineCategories",
+          "machineCategories": [
+            {
+              "@type": "MachineCategory",
+              "name": "JOHN DEERE",
+              "id": "1",
+              "type": "Make"
+            },
+            {
+              "@type": "MachineCategory",
+              "name": "8500",
+              "id": "4023904",
+              "type": "Model"
+            },
+            {
+              "@type": "MachineCategory",
+              "name": "Hay & Forage",
+              "id": "1010",
+              "type": "Type"
+            },
+            {
+              "@type": "MachineCategory",
+              "name": "Z 2761G",
+              "type": "DMC"
+            }
+          ],
+          "otherAttributes": {}
+        },
+        "category": {
+          "@type": "MachineCategory",
+          "name": "Hay & Forage",
+          "id": "1010",
+          "type": "Type"
+        },
+        "make": {
+          "@type": "MachineCategory",
+          "name": "JOHN DEERE",
+          "id": "1",
+          "type": "Make"
+        },
+        "model": {
+          "@type": "MachineCategory",
+          "name": "8500",
+          "id": "4023904",
+          "type": "Model"
+        },
+        "detailMachineCode": {
+          "@type": "MachineCategory",
+          "name": "Z 2761G",
+          "type": "DMC"
+        },
+        "productKey": "66450709",
+        "engineSerialNumber": "RG6135G007209",
+        "telematicsState": "active",
+        "capabilities": [],
+        "terminals": {
+          "@type": "Terminals",
+          "otherAttributes": {}
+        },
+        "displays": {
+          "@type": "Displays",
+          "otherAttributes": {}
+        },
+        "GUID": "bcc4bab3-7f72-42e7-ab3e-68576262ece8",
+        "modelYear": "2016",
+        "id": "384159",
+        "vin": "1Z08500YPGF515631",
+        "name": "Agronova 8500",
+        "equipmentMake": {
+          "@type": "EquipmentMake",
+          "name": "JOHN DEERE",
+          "certified": true,
+          "id": "1"
+        },
+        "equipmentType": {
+          "@type": "EquipmentType",
+          "name": "Forage Harvester",
+          "GUID": "99edf0e0-4abb-42d3-9798-327439a39c38",
+          "category": "Machine",
+          "certified": true,
+          "marketSegment": "Unknown",
+          "id": "162"
+        },
+        "equipmentApexType": {
+          "@type": "EquipmentApexType",
+          "name": "Forage Harvester",
+          "GUID": "99edf0e0-4abb-42d3-9798-327439a39c38",
+          "category": "Machine",
+          "id": "3372"
+        },
+        "equipmentModel": {
+          "@type": "EquipmentModel",
+          "name": "8500",
+          "GUID": "c41c6ef0-10a0-4639-be31-7d3c73eb0d10",
+          "certified": true,
+          "classification": "Machine",
+          "id": "599619"
+        },
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159"
+          },
+          {
+            "@type": "Link",
+            "rel": "organizations",
+            "uri": "https://sandboxapi.deere.com/platform/organizations/300612"
+          },
+          {
+            "@type": "Link",
+            "rel": "lastKnownEngineHours",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/engineHours?lastKnown=true"
+          },
+          {
+            "@type": "Link",
+            "rel": "alerts",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/alerts"
+          },
+          {
+            "@type": "Link",
+            "rel": "hoursOfOperation",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/hoursOfOperation"
+          },
+          {
+            "@type": "Link",
+            "rel": "deviceStateReports",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/deviceStateReports"
+          },
+          {
+            "@type": "Link",
+            "rel": "engineHours",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/engineHours"
+          },
+          {
+            "@type": "Link",
+            "rel": "locationHistory",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/locationHistory"
+          },
+          {
+            "@type": "Link",
+            "rel": "capabilities",
+            "uri": "https://sandboxapi.deere.com/platform/machines/384159/capabilities"
+          }
+        ]
+      }
+    ]
+  }

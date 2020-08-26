@@ -1,0 +1,545 @@
+{
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://sandboxapi.deere.com/platform/machines/315205/deviceStateReports"
+      },
+      {
+        "rel": "nextPage",
+        "uri": "https://sandboxapi.deere.com/platform/machines/315205/deviceStateReports;count=10?startDate=2015-01-01T00:00:00.000Z&endDate=2020-08-20T05:05:05.000Z"
+      }
+    ],
+    "total": 10,
+    "values": [
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T14:45:29.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.209583333333335,
+          "lon": -61.72563888888889,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-20T11:06:53.000Z",
+        "engineState": 0,
+        "terminalPowerState": 3,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -99,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T14:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.209583333333335,
+          "lon": -61.72563888888889,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-20T11:06:53.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -99,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T13:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.209583333333335,
+          "lon": -61.72563888888889,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-20T11:06:53.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -97,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T12:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.209583333333335,
+          "lon": -61.72563888888889,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-20T11:06:53.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 1,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -99,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T11:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.210083333333333,
+          "lon": -61.72522222222222,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-18T22:06:47.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -97,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T10:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.210083333333333,
+          "lon": -61.72522222222222,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-18T22:06:47.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -89,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T09:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.210083333333333,
+          "lon": -61.72522222222222,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-18T22:06:47.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 1,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -89,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T08:05:05.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.210083333333333,
+          "lon": -61.72522222222222,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-18T22:06:47.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 1,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -89,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T07:05:06.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.210083333333333,
+          "lon": -61.72522222222222,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-18T22:06:47.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -89,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      },
+      {
+        "@type": "DeviceStateReport",
+        "time": "2020-08-20T06:05:01.000Z",
+        "gatewayType": 2,
+        "location": {
+          "@type": "Point",
+          "lat": -31.210083333333333,
+          "lon": -61.72522222222222,
+          "altitude": {
+            "@type": "measurementAsDouble",
+            "valueAsDouble": 0.0,
+            "unit": "meters"
+          }
+        },
+        "minRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "maxRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "averageRSSI": {
+          "@type": "measurementAsDouble",
+          "valueAsDouble": 0.0,
+          "unit": "dbM"
+        },
+        "gpsFixTimestamp": "2020-08-18T22:06:47.000Z",
+        "engineState": 0,
+        "terminalPowerState": 2,
+        "cellModemState": 0,
+        "cellModemAntennaState": 0,
+        "gpsModemState": 1,
+        "gpsAntennaState": 0,
+        "gpsError": 2,
+        "gpsFirmwareLevelError": 0,
+        "network": 2,
+        "rssi": -89,
+        "tetheringStatus": 0,
+        "apStatus": 0,
+        "m2mMode": 0,
+        "tetheringConnected": 0,
+        "apConnected": 0,
+        "m2mConnected": 0,
+        "gsmAntennaType": 0,
+        "wifiAntennaType": 0,
+        "antennaFailure": 0,
+        "failedToTether": 0,
+        "failedToM2M": 0,
+        "links": []
+      }
+    ]
+  }

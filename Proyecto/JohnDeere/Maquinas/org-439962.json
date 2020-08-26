@@ -1,0 +1,161 @@
+{
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://sandboxapi.deere.com/platform/organizations/439962/machines"
+      }
+    ],
+    "total": 1,
+    "values": [
+      {
+        "@type": "Machine",
+        "visualizationCategory": "combine",
+        "machineCategories": {
+          "@type": "MachineCategories",
+          "machineCategories": [
+            {
+              "@type": "MachineCategory",
+              "name": "JOHN DEERE",
+              "id": "1",
+              "type": "Make"
+            },
+            {
+              "@type": "MachineCategory",
+              "name": "S680",
+              "id": "1747885",
+              "type": "Model"
+            },
+            {
+              "@type": "MachineCategory",
+              "name": "Combine Harvesting",
+              "id": "1006",
+              "type": "Type"
+            },
+            {
+              "@type": "MachineCategory",
+              "name": "J 01LM0",
+              "type": "DMC"
+            }
+          ],
+          "otherAttributes": {}
+        },
+        "category": {
+          "@type": "MachineCategory",
+          "name": "Combine Harvesting",
+          "id": "1006",
+          "type": "Type"
+        },
+        "make": {
+          "@type": "MachineCategory",
+          "name": "JOHN DEERE",
+          "id": "1",
+          "type": "Make"
+        },
+        "model": {
+          "@type": "MachineCategory",
+          "name": "S680",
+          "id": "1747885",
+          "type": "Model"
+        },
+        "detailMachineCode": {
+          "@type": "MachineCategory",
+          "name": "J 01LM0",
+          "type": "DMC"
+        },
+        "productKey": "92619652",
+        "engineSerialNumber": "RG6135G009914",
+        "telematicsState": "active",
+        "capabilities": [],
+        "terminals": {
+          "@type": "Terminals",
+          "otherAttributes": {}
+        },
+        "displays": {
+          "@type": "Displays",
+          "otherAttributes": {}
+        },
+        "GUID": "19df0f2e-fe11-4f3b-90c9-aa802d44e7e0",
+        "modelYear": "2018",
+        "id": "616560",
+        "vin": "1J0S680BCJ0125108",
+        "name": "FLOGNA S680",
+        "equipmentMake": {
+          "@type": "EquipmentMake",
+          "name": "JOHN DEERE",
+          "certified": true,
+          "id": "1"
+        },
+        "equipmentType": {
+          "@type": "EquipmentType",
+          "name": "Combine",
+          "GUID": "d8dce5b0-cc8d-4c34-afac-27d93793bd86",
+          "category": "Machine",
+          "certified": true,
+          "marketSegment": "Unknown",
+          "id": "139"
+        },
+        "equipmentApexType": {
+          "@type": "EquipmentApexType",
+          "name": "Combine",
+          "GUID": "d8dce5b0-cc8d-4c34-afac-27d93793bd86",
+          "category": "Machine",
+          "id": "3370"
+        },
+        "equipmentModel": {
+          "@type": "EquipmentModel",
+          "name": "S680",
+          "GUID": "f2e7d596-35c6-11e7-af34-123e49453e98",
+          "certified": true,
+          "classification": "Machine",
+          "id": "65985"
+        },
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560"
+          },
+          {
+            "@type": "Link",
+            "rel": "organizations",
+            "uri": "https://sandboxapi.deere.com/platform/organizations/439962"
+          },
+          {
+            "@type": "Link",
+            "rel": "lastKnownEngineHours",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/engineHours?lastKnown=true"
+          },
+          {
+            "@type": "Link",
+            "rel": "alerts",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/alerts"
+          },
+          {
+            "@type": "Link",
+            "rel": "hoursOfOperation",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/hoursOfOperation"
+          },
+          {
+            "@type": "Link",
+            "rel": "deviceStateReports",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/deviceStateReports"
+          },
+          {
+            "@type": "Link",
+            "rel": "engineHours",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/engineHours"
+          },
+          {
+            "@type": "Link",
+            "rel": "locationHistory",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/locationHistory"
+          },
+          {
+            "@type": "Link",
+            "rel": "capabilities",
+            "uri": "https://sandboxapi.deere.com/platform/machines/616560/capabilities"
+          }
+        ]
+      }
+    ]
+  }

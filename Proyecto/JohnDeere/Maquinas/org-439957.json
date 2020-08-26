@@ -1,0 +1,311 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "uri": "https://sandboxapi.deere.com/platform/organizations/439957/machines"
+    }
+  ],
+  "total": 2,
+  "values": [
+    {
+      "@type": "Machine",
+      "visualizationCategory": "combine",
+      "machineCategories": {
+        "@type": "MachineCategories",
+        "machineCategories": [
+          {
+            "@type": "MachineCategory",
+            "name": "JOHN DEERE",
+            "id": "1",
+            "type": "Make"
+          },
+          {
+            "@type": "MachineCategory",
+            "name": "S670",
+            "id": "1721319",
+            "type": "Model"
+          },
+          {
+            "@type": "MachineCategory",
+            "name": "Combine Harvesting",
+            "id": "1006",
+            "type": "Type"
+          },
+          {
+            "@type": "MachineCategory",
+            "name": "J 01J40",
+            "type": "DMC"
+          }
+        ],
+        "otherAttributes": {}
+      },
+      "category": {
+        "@type": "MachineCategory",
+        "name": "Combine Harvesting",
+        "id": "1006",
+        "type": "Type"
+      },
+      "make": {
+        "@type": "MachineCategory",
+        "name": "JOHN DEERE",
+        "id": "1",
+        "type": "Make"
+      },
+      "model": {
+        "@type": "MachineCategory",
+        "name": "S670",
+        "id": "1721319",
+        "type": "Model"
+      },
+      "detailMachineCode": {
+        "@type": "MachineCategory",
+        "name": "J 01J40",
+        "type": "DMC"
+      },
+      "productKey": "61693950",
+      "engineSerialNumber": "J06090B011479",
+      "telematicsState": "active",
+      "capabilities": [],
+      "terminals": {
+        "@type": "Terminals",
+        "otherAttributes": {}
+      },
+      "displays": {
+        "@type": "Displays",
+        "otherAttributes": {}
+      },
+      "GUID": "d617f87e-3df8-42cd-a605-13b3f36a749b",
+      "modelYear": "2015",
+      "id": "315205",
+      "vin": "1J0S670BVF0090077",
+      "name": "Ardissono",
+      "equipmentMake": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "id": "1"
+      },
+      "equipmentType": {
+        "@type": "EquipmentType",
+        "name": "Combine",
+        "GUID": "d8dce5b0-cc8d-4c34-afac-27d93793bd86",
+        "category": "Machine",
+        "certified": true,
+        "marketSegment": "Unknown",
+        "id": "139"
+      },
+      "equipmentApexType": {
+        "@type": "EquipmentApexType",
+        "name": "Combine",
+        "GUID": "d8dce5b0-cc8d-4c34-afac-27d93793bd86",
+        "category": "Machine",
+        "id": "3370"
+      },
+      "equipmentModel": {
+        "@type": "EquipmentModel",
+        "name": "S670",
+        "GUID": "f2e7a6e7-35c6-11e7-af34-123e49453e98",
+        "certified": true,
+        "classification": "Machine",
+        "id": "65944"
+      },
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205"
+        },
+        {
+          "@type": "Link",
+          "rel": "organizations",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957"
+        },
+        {
+          "@type": "Link",
+          "rel": "lastKnownEngineHours",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/engineHours?lastKnown=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "alerts",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/alerts"
+        },
+        {
+          "@type": "Link",
+          "rel": "hoursOfOperation",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/hoursOfOperation"
+        },
+        {
+          "@type": "Link",
+          "rel": "deviceStateReports",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/deviceStateReports"
+        },
+        {
+          "@type": "Link",
+          "rel": "engineHours",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/engineHours"
+        },
+        {
+          "@type": "Link",
+          "rel": "locationHistory",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/locationHistory"
+        },
+        {
+          "@type": "Link",
+          "rel": "capabilities",
+          "uri": "https://sandboxapi.deere.com/platform/machines/315205/capabilities"
+        }
+      ]
+    },
+    {
+      "@type": "Machine",
+      "visualizationCategory": "tractor",
+      "machineCategories": {
+        "@type": "MachineCategories",
+        "machineCategories": [
+          {
+            "@type": "MachineCategory",
+            "name": "JOHN DEERE",
+            "id": "1",
+            "type": "Make"
+          },
+          {
+            "@type": "MachineCategory",
+            "name": "7230J",
+            "id": "4169972",
+            "type": "Model"
+          },
+          {
+            "@type": "MachineCategory",
+            "name": "Tractor",
+            "id": "1012",
+            "type": "Type"
+          },
+          {
+            "@type": "MachineCategory",
+            "name": "J 006A0",
+            "type": "DMC"
+          }
+        ],
+        "otherAttributes": {}
+      },
+      "category": {
+        "@type": "MachineCategory",
+        "name": "Tractor",
+        "id": "1012",
+        "type": "Type"
+      },
+      "make": {
+        "@type": "MachineCategory",
+        "name": "JOHN DEERE",
+        "id": "1",
+        "type": "Make"
+      },
+      "model": {
+        "@type": "MachineCategory",
+        "name": "7230J",
+        "id": "4169972",
+        "type": "Model"
+      },
+      "detailMachineCode": {
+        "@type": "MachineCategory",
+        "name": "J 006A0",
+        "type": "DMC"
+      },
+      "productKey": "97376469",
+      "engineSerialNumber": "J06068B735082",
+      "telematicsState": "active",
+      "capabilities": [],
+      "terminals": {
+        "@type": "Terminals",
+        "otherAttributes": {}
+      },
+      "displays": {
+        "@type": "Displays",
+        "otherAttributes": {}
+      },
+      "GUID": "6c30ce4c-a9f4-4d80-ad6a-c801c0fffc38",
+      "modelYear": "2019",
+      "id": "618225",
+      "vin": "1J07230JLKD000112",
+      "name": "1J07230JLKD000112",
+      "equipmentMake": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "id": "1"
+      },
+      "equipmentType": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "GUID": "82115264-9385-460c-bfbe-177a59445fd9",
+        "category": "Machine",
+        "certified": true,
+        "marketSegment": "Unknown",
+        "id": "133"
+      },
+      "equipmentApexType": {
+        "@type": "EquipmentApexType",
+        "name": "Tractor",
+        "GUID": "82115264-9385-460c-bfbe-177a59445fd9",
+        "category": "Machine",
+        "id": "3374"
+      },
+      "equipmentModel": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "GUID": "11d7ac02-eadf-4fe5-a65c-20f8a584b6b1",
+        "certified": true,
+        "classification": "Machine",
+        "id": "599506"
+      },
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225"
+        },
+        {
+          "@type": "Link",
+          "rel": "organizations",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957"
+        },
+        {
+          "@type": "Link",
+          "rel": "lastKnownEngineHours",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/engineHours?lastKnown=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "alerts",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/alerts"
+        },
+        {
+          "@type": "Link",
+          "rel": "hoursOfOperation",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/hoursOfOperation"
+        },
+        {
+          "@type": "Link",
+          "rel": "deviceStateReports",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/deviceStateReports"
+        },
+        {
+          "@type": "Link",
+          "rel": "engineHours",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/engineHours"
+        },
+        {
+          "@type": "Link",
+          "rel": "locationHistory",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/locationHistory"
+        },
+        {
+          "@type": "Link",
+          "rel": "capabilities",
+          "uri": "https://sandboxapi.deere.com/platform/machines/618225/capabilities"
+        }
+      ]
+    }
+  ]
+}

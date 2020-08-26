@@ -1,0 +1,810 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "uri": "https://sandboxapi.deere.com/platform/organizations"
+    },
+    {
+      "rel": "nextPage",
+      "uri": "https://sandboxapi.deere.com/platform/organizations;start=10;count=10"
+    }
+  ],
+  "total": 100,
+  "values": [
+    {
+      "@type": "Organization",
+      "name": "ADRIAN BELTRAMO",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "464727",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/464727/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "ADRIAN FERRERO",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "478064",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/478064/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "AG. FLOGNA",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "439962",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439962/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "AGRONOVA S.A.",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "300612",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/300612/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "AGROPECUARIA NORTE",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "418597",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418597/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "AGROPECUARIA NUEVO TORINO",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "430710",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/430710/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "AGROSINERGIA",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "419921",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419921/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "AMADEO BADINO",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "419962",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/419962/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "ARDISSONO MIGUEL",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "439957",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/439957/orgController"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "ARIEL RE",
+      "type": "customer",
+      "member": false,
+      "internal": false,
+      "id": "418341",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341"
+        },
+        {
+          "@type": "Link",
+          "rel": "machines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "wdtCapableMachines",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/machines?capability=wdt"
+        },
+        {
+          "@type": "Link",
+          "rel": "files",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "transferableFiles",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/files?transferable=true"
+        },
+        {
+          "@type": "Link",
+          "rel": "uploadFile",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/files"
+        },
+        {
+          "@type": "Link",
+          "rel": "sendFileToMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/fileTransfers"
+        },
+        {
+          "@type": "Link",
+          "rel": "addMachine",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/machines"
+        },
+        {
+          "@type": "Link",
+          "rel": "addField",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "fields",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/fields"
+        },
+        {
+          "@type": "Link",
+          "rel": "farms",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/farms"
+        },
+        {
+          "@type": "Link",
+          "rel": "boundaries",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/boundaries"
+        },
+        {
+          "@type": "Link",
+          "rel": "clients",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/clients"
+        },
+        {
+          "@type": "Link",
+          "rel": "controllers",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/418341/orgController"
+        }
+      ]
+    }
+  ]
+}
